@@ -5,4 +5,6 @@ function print_bass(){
 function print_bill(){
     echo "bill";
 }
-
+function print_nut(){
+    echo "nut";
+}
