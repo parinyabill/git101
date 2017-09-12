@@ -8,3 +8,6 @@ function print_bill(){
 function print_nut(){
     echo "nut";
 }
+function print_phat(){
+    echo "phat";
+}
